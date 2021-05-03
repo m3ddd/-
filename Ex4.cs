@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex4
+namespace ConsoleApp2
 {
     class Program
     {
@@ -24,10 +24,6 @@ namespace Ex4
 
             Console.WriteLine($"a = {a} b = {b}");
 
-            
-
-
         }
-
     }
 }
